@@ -1,0 +1,25 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+    ('Tlan Imas', now(), 'Tlan Ipsum Ibra Gholan Pran Chole The God is Not Willing Seren Pedac Lorn Raest Scorch Ryllandaras Messremb Rautos Hivanar Onrack Korbal Broach Felisin Rythok Moby.'),
+    ('Icariums tantrums', now(), 'Tlan Ipsum Jallid Plain Bluff Point Gest Pass Cape Castle Shifting Wastes Chaos Dojal Spring Tennes Drek Monastery Wickan Plains Jelarkans Palace Jhag Odhan Refugium Gangrek Mounts Bone Reef.'),
+    ('Quickben is Best Ben', now(), 'Tlan Ipsum Convergence Cape of the Stone Army Conflagration Verdith anath Ibilar Gorge Spar of Andii Rashan Storin Reef Mock Barrow Dal Hon Plains The Reach Nascent Ahkrast Korvalain Thyr Hoods Breath White Cliffs Keplers Spite Jaghut Odhan The Abyss Potsherd Kurald Galain Starvald Demelain Jallid Plain Lamatath Plain Aral Gamelain Shore of Sand Bandiko Desert Thelomen Toblakai Warrens Coast of Dust Genabackis'),
+    ('Kalam Thicc Ninja', now(), 'Tlan Ipsum Teblor Gaelar Throe Stonny Menackis Dancer Rud Ellale Kruppe Lookback The Crippled God KChain Nahruk Monok Ochem Tanakalian Kazz DAvore Orfantal Sheb Humbrall Taur Grub Kindly Derudan Heboric Light Touch Gadrobi Orb Sceptre Throne Bauchelain Barathol Hannan Mosag Gesler Onos Toolan Drek Hurlochel Anomander Krute of Talient.'),
+    ('WhiskeyJacks mixers', now(), 'The Crippled God Gadrobi Shaik Fayelle GuRull Throatslitter Dancer'),
+    ('Stonny Menackis', now(), 'Tlan Ipsum Teblor Gaelar Throe Stonny Menackis Dancer Rud Ellale Kruppe Lookback The Crippled God KChain Nahruk Monok Ochem Tanakalian Kazz DAvore Orfantal Sheb Humbrall Taur Grub Kindly Derudan Heboric Light Touch Gadrobi Orb Sceptre Throne Bauchelain Barathol Hannan Mosag Gesler Onos Toolan Drek Hurlochel Anomander Krute of Talient.
+    The Crippled God Gadrobi Shaik Fayelle GuRull Throatslitter Dancer Gaelar Throe Iron Bars KChain Nahruk Stonny Menackis Derudan Pran Chole Reapers Gale Torrent.'),
+    ('Edgewalkers middle game', now(), 'Jacuruku Radagar Spine Lether Gangrek Mounts Bone Peninsula Jhagra Til Bone Pass The Groan Dwelling Plain Plain of Sighs Road of Gallan Shore of Stone Otataral Desert Detritus Shifting Wastes.'),
+    ('Thyr and why fire is light', now(), 'Dal Hon Plains The Reach Nascent Ahkrast Korvalain Thyr Hoods Breath White Cliffs Keplers Spite Jaghut'),
+    ('Ryllandaras', now(), 'lain Forge of Darkness Hood Humbrall Taur Mulvan Dreader Nisall Pores Dujek Iskaral Pust Koryk Udinaas Keneb Gorlas Vidikas Stonewielder Karpolan Demesand Tlan Imass Mallick Rel Dejim Nebrahl Faradan Sort Futhgar Nep Furrow Silverfox Gall Tattersail Edgewalker Kisswhere Flashwit Kamist Reloe Reapers Gale Malachar Squad mage Kettle Stormy Sheltatha Lore Finadd Atri-Ceda Ormulogun Tavore Torrent Crone Gerun Eberict Shurq Elalle Skulldeath Enedictal Coltaine Pran Chole Duiker Teblor Kulat The Fiends of Nightmaria'),
+    ('Magnetism and Convergence', now(), 'Tlan Ipsum Convergence Cape of the Stone Army Conflagration Verdith anath Ibilar Gorge Spar of Andii Rashan Storin Reef Mock Barrow Dal Hon Plains The Reach Nascent'),
+    ('Dwelling Plan', now(), 'North Valley Lamatath Plain Weeping Plains Omtose Phellack Dojal Spring The Twins Deland Valley Cawn Vor Jelarkans Palace Moon Mock Barrow Starvald Demelain Lether Meila Oasis Jhagra Til Shifting Wastes'),
+    ('Choas and Insanity', now(), 'Vitr Shore of Stone Mockra Free City Plain Tellann Assail Cape Refuge Road of Gallan Crepuscular Demon Plain Plain of Longing Efficacy Kurald Galain Plains of Blight Inexorably Chaos Lato Odhan Raraku.'),
+    ('Plains of Blight', now(), 'Inexorably Chaos Lato Odhan Raraku.'),
+    ('Tarthenal Poetry', now(), 'Orb Sceptre Throne belong to Kilava Onrack'),
+    ('Onrack the Brokens Carpentry', now(), 'Nappet Bidithal Kazz DAvore Farakalian Galt Humbrall Taur Iskaral Pust Korbal Broach Caladan Brood.'),
+    ('Ebron', now(), 'Quick Ben Crackd Pot Trail Chain of Dogs Scorch Smiles Nappet Dorin Rav.'),
+    ('Kazz', now(), 'Tlan Ipsum Sands Salind Jorrick Sharplance Picker Fingers Sorry Krul Grub Janall Enias The Bonehunters Febryl'),
+    ('Dessembraes joy', now(), 'Grave Imass Wither Drek Rhivi Blood and Bone Circle Breaker Balm Seren Pedac Pormqual Sister Spite Orb Sceptre Throne Preda Binadas Sinn'),
+    ('Draconas', now(), 'Krosis Dal Hon Plains Refugium Vision Plain Bone Peninsula Kurald Galain Starvald Demelain Mockra Glass Desert Chisel Coast Anguish Coast Desert of the Adwami Tribes Cinnamon Wastes Kolanse Witness The Groan Quon Tali Basin Denaeth Rusen Plain of Visions Lato Odhan Telas Gangrek Mounts'),
+    ('Barren Coast', now(), 'Vanishing Wastes The Horn Plain of Ghosts Chamber of Collections Ibilar Gorge Ubaryd Odhan Spar of Andii Jallid Plain Thelomen Toblakai Warrens Jhag Odhan Chanar Keep Bone Pass Drek Monastery Sekarands Tower'),
+    ('Grub', now(), 'Raraku Omtose Phellack Tellann Wickan Plains East Elan Plain Blackdog Forest Malaz Island Kaschan Jhag Odhan Lato Odhan Crepuscular Road of Gallan The Abyss Dead Shore Shore of Stone Jhagra')
+;
